@@ -5,7 +5,8 @@
 
 The code posted above is an implementation of a bot that plays a game involving clicking on a cookie to earn in-game currency and using that currency to buy upgrades from a store. The bot is built using the selenium library for Python, which allows it to interact with the game through a web browser.
 
-![Untitled video - Made with Clipchamp (3)](https://user-images.githubusercontent.com/39882035/227759798-b230365f-f807-4d6e-9b7f-89e2a23ac25b.gif)
+
+![Untitled video - Made with Clipchamp (4)](https://user-images.githubusercontent.com/39882035/227760109-f8448789-8fcb-472f-a9bd-b06d47fc1d96.gif)
 
 
 ![auto_3](https://user-images.githubusercontent.com/39882035/227760081-93f4e0e6-1c28-44c0-9ae4-0dfa40d24f0d.gif)
