@@ -20,4 +20,4 @@ The buy_options method finds the store elements on the page and checks if the bo
 
 The bot runs in an infinite loop until the game ends, clicking on the cookie and buying upgrades as needed.
 
-Overall, the code is a basic implementation of a game-playing bot and could be improved with additional features and error handling.
+
